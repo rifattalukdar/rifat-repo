@@ -9,4 +9,21 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
+}
+.half-widh{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-widh img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5pxs;
+    font-weight: 700;
+    
 }
